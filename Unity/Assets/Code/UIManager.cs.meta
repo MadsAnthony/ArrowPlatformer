@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 39d37ec918bd62a48b255fa978d8b8b2
+timeCreated: 1453562966
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jumpEffect: {fileID: 192256, guid: 0ec4df9d943a561439c8db57a9c3b4d4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
